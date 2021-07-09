@@ -5,4 +5,6 @@ My ratpoison config. Ran sucessfully on EndeavourOS
 ```bash
 sudo pacman -S feh dmenu alacritty
 ```
-2. Drop the config file into `~/.ratpoisonrc`
+2. Drop a JPEG wallpaper into `~/Pictures/walp.jpg`
+
+3. Drop the config file into `~/.ratpoisonrc`
