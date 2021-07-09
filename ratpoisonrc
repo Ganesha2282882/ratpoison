@@ -1,0 +1,4 @@
+exec feh --bgfill ~/Pictures/walp.jpg
+bind r exec dmenu_run
+bind t exec alacritty
+bind q exec killall Xorg
